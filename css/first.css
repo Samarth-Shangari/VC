@@ -1,0 +1,39 @@
+body {
+    background-color: #fcf8e8;
+}
+hr {
+    border-style:dotted none none;
+    border-color: #df7861;
+    border-width: 5px;
+    height: 0;
+    width: 5%;
+    
+}
+.circular{
+    border-radius: 10%;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+h1 {
+    color: #6a2c70;
+}
+h3{
+    color: #ff2e63;
+}
+ol{
+    color: #ea0599;
+}
+ul{
+    color: #ea0599;
+}
+table{
+    color: #ea0599;
+}
+th{
+    color: #900c3f;
+}
+a{
+    color: #900c3f;
+}
